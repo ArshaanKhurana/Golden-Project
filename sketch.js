@@ -10,11 +10,11 @@ var funObj,lvlObj;
 
 
 function preload(){
-  mainMenuImg = loadImage("../Images/mainmenuBackground.png");;
-  SuperHeroimg = loadImage("../Images/HeroMain1.png");
-  arrowImg = loadImage("../Images/arrow.png");
-  OpenLockImg = loadImage("../Images/openLock.png");
-  CloseLockImg = loadImage("../Images/lock.png");
+  mainMenuImg = loadImage("Images/mainmenuBackground.png");;
+  SuperHeroimg = loadImage("Images/HeroMain1.png");
+  arrowImg = loadImage("Images/arrow.png");
+  OpenLockImg = loadImage("Images/openLock.png");
+  CloseLockImg = loadImage("Images/lock.png");
  
 }
 
